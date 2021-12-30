@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name": "Bidur Timalsina",
+    "occupation": "Chef",
+    "description": "Eat, sleep, cook , Repeat",
+    "image": "profilepic.jpg",
+    "bio": "Myself Bidur timalsina from Nepal.  Completed diploma in culinary art from Nepal.Former   Commis Pastery Chef in Sheraton sharjah .I have been trained and worked with professional chefs, gained knowledge and improved my gourmet skills, focusing in flavors, textures,colors, presentation, standard, quality and consistency. I am a strong and focus team player, want to be the best in my area of expertise. I learned throughout my career the difficult task and managing with people from different countries and culture. I want to take my career further to exceed my profession and experience in culinary.",
+    "contactmessage": "Get in touch with me ",
+    "email": "bidur52k@gmail.com",
+    "phone": "+9779808011925",
+    "address": {
+      "street": "Tikhedewal",
+      "city": "Lalitpur",
+      "state": "Bagmati",
+      "zip": "977"
+    },
+    "website": "https://bidurtimalsina.vercel.app",
+    "resumedownload": "https://bidurtimalsina.vercel.app",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.youtube.com/channel/UCQKWmmVJm4a1v_7lGkfjRQQ",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.youtube.com/channel/UCQKWmmVJm4a1v_7lGkfjRQQ",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.youtube.com/channel/UCQKWmmVJm4a1v_7lGkfjRQQ",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.youtube.com/channel/UCQKWmmVJm4a1v_7lGkfjRQQ",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://www.youtube.com/channel/UCQKWmmVJm4a1v_7lGkfjRQQ",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My  Proficiency",
+    "education": [
+      {
+        "school": "Academy of Culinary Arts & Hospitality Management",
+        "degree": "Post Graduate in culinary art",
+        "graduated": "2016",
+        "description": "Gain relevent skills and knowledge in Hospitality Industry"
+      },
+      {
+        "school": "Advance International Model Higher Secondary School",
+        "degree": "Higher Secondary Education Board",
+        "graduated": "2014",
+        "description": "..."
+      },
+      {
+        "school": "New Life English Secondary School",
+        "degree": "School Leaving Certificate",
+        "graduated": "2012",
+        "description": "..."
+      }
+    ],
+    "work": [
+      {
+        "company": "Agility Logistics",
+        "title": "Pastery Chef",
+        "years": "2019 ",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Sheraton Sharjah Beach Resort and Spa, UAE",
+        "title": "Commis Chef ",
+        "years": "2016 - 2018 ",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Pastry",
+        "level": "60%"
+      },
+      {
+        "name": "CULINARY",
+        "level": "55%"
+      },
+      {
+        "name": "FOOD & BEVERAGE",
+        "level": "50%"
+      },
+      {
+        "name": "HOSPITALITY",
+        "level": "90%"
+      },
+      {
+        "name": "TEAM MANAGEMENT",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries1.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries2.jpg",
+        "url": "#"
+      },
+
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries3.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries4.jpg",
+        "url": "#"
+      },
+      
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries5.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries6.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries7.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries8.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries9.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries10.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Tarts",
+        "category": "Pastries",
+        "image": "pastries11.jpg",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I am confident in recommending  Bidur to any company or organization that is looking for great quality and  superior  customer  service. If you  are looking for professionalism,  dedication, attentive to detail and wonderful  enthusiasm for their work, I would highly recommend Bidur Timalsina.",
+        "user": "Chef Sanjit"
+      }
+      
+    ]
+  }
+}
